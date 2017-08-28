@@ -2,11 +2,11 @@
 "family":{
     "siblings":[
       {
-        "name":"Darryl"
+        "name":"Darryl",
         "rel":"Brother"
         },
       {
-        "name":"Mercedes"
+        "name":"Mercedes",
         "rel":"Sister"
       }
     ]
